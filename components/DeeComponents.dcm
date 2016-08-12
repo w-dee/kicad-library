@@ -27,4 +27,9 @@ D Generic 8x8 LED matrix
 K LED,Matrix
 $ENDCMP
 #
+$CMP NJU7223
+D Linear Regulator +3.3V
+K POWER REGUL
+$ENDCMP
+#
 #End Doc Library
