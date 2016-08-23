@@ -1,4 +1,4 @@
-(module murata-OKL (layer F.Cu) (tedit 57AD9F41)
+(module murata-OKL (layer F.Cu) (tedit 57BA5387)
   (fp_text reference G*** (at -3.45 -8.8) (layer F.SilkS)
     (effects (font (thickness 0.3)))
   )
@@ -27,4 +27,7 @@
   (pad 3 smd rect (at 2.15 -5.7 270) (size 3 1.2) (layers F.Cu F.Paste F.Mask))
   (pad 2 smd rect (at -3.6 -4.65 90) (size 1.77 4.07) (layers F.Cu F.Paste F.Mask))
   (pad 3 smd rect (at 1 -4.65 90) (size 1.77 4.07) (layers F.Cu F.Paste F.Mask))
+  (pad 4 thru_hole circle (at 4.4 -3.3) (size 1.6 1.6) (drill 1.2) (layers *.Cu *.Mask))
+  (pad 3 thru_hole circle (at 0.9 -4.65) (size 1.6 1.6) (drill 1.2) (layers *.Cu *.Mask))
+  (pad 2 thru_hole circle (at -3.65 -4.65) (size 1.6 1.6) (drill 1.2) (layers *.Cu *.Mask))
 )
