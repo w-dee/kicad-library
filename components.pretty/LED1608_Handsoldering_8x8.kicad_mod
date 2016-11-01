@@ -1,0 +1,714 @@
+
+(module LED1608_Handsoldering (layer F.Cu) (tedit 5805D34D)
+  (fp_text reference REF** (at -1.4 0.45 90) (layer F.SilkS)
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+  (fp_text value LED1608_Handsoldering (at -0.8 -3) (layer F.Fab)
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+ 
+
+
+
+  (fp_line (start 0.25 -0.8) (end 0.55 -0.8) (layer F.SilkS) (width 0.15))
+  (fp_line (start 0.25 -0.9) (end 0.55 -0.9) (layer F.SilkS) (width 0.15))
+
+  (pad 9 smd rect (at 0.4 1.6) (size 0.8 1) (layers F.Cu F.Paste F.Mask))
+  (pad 9 smd rect (at 0.4 1.35) (size 1.4 0.5) (layers F.Cu F.Paste F.Mask))
+  (pad 13 smd rect (at 0.4 0.25) (size 1.4 0.5) (layers F.Cu F.Paste F.Mask))
+  (pad 13 smd rect (at 0.4 0.0) (size 0.8 1) (layers F.Cu F.Paste F.Mask))
+	
+
+
+
+  (fp_line (start 4.25 -0.8) (end 4.55 -0.8) (layer F.SilkS) (width 0.15))
+  (fp_line (start 4.25 -0.9) (end 4.55 -0.9) (layer F.SilkS) (width 0.15))
+
+  (pad 9 smd rect (at 4.4 1.6) (size 0.8 1) (layers F.Cu F.Paste F.Mask))
+  (pad 9 smd rect (at 4.4 1.35) (size 1.4 0.5) (layers F.Cu F.Paste F.Mask))
+  (pad 3 smd rect (at 4.4 0.25) (size 1.4 0.5) (layers F.Cu F.Paste F.Mask))
+  (pad 3 smd rect (at 4.4 0.0) (size 0.8 1) (layers F.Cu F.Paste F.Mask))
+	
+
+
+
+  (fp_line (start 8.25 -0.8) (end 8.55 -0.8) (layer F.SilkS) (width 0.15))
+  (fp_line (start 8.25 -0.9) (end 8.55 -0.9) (layer F.SilkS) (width 0.15))
+
+  (pad 9 smd rect (at 8.4 1.6) (size 0.8 1) (layers F.Cu F.Paste F.Mask))
+  (pad 9 smd rect (at 8.4 1.35) (size 1.4 0.5) (layers F.Cu F.Paste F.Mask))
+  (pad 4 smd rect (at 8.4 0.25) (size 1.4 0.5) (layers F.Cu F.Paste F.Mask))
+  (pad 4 smd rect (at 8.4 0.0) (size 0.8 1) (layers F.Cu F.Paste F.Mask))
+	
+
+
+
+  (fp_line (start 12.25 -0.8) (end 12.55 -0.8) (layer F.SilkS) (width 0.15))
+  (fp_line (start 12.25 -0.9) (end 12.55 -0.9) (layer F.SilkS) (width 0.15))
+
+  (pad 9 smd rect (at 12.4 1.6) (size 0.8 1) (layers F.Cu F.Paste F.Mask))
+  (pad 9 smd rect (at 12.4 1.35) (size 1.4 0.5) (layers F.Cu F.Paste F.Mask))
+  (pad 10 smd rect (at 12.4 0.25) (size 1.4 0.5) (layers F.Cu F.Paste F.Mask))
+  (pad 10 smd rect (at 12.4 0.0) (size 0.8 1) (layers F.Cu F.Paste F.Mask))
+	
+
+
+
+  (fp_line (start 16.25 -0.8) (end 16.55 -0.8) (layer F.SilkS) (width 0.15))
+  (fp_line (start 16.25 -0.9) (end 16.55 -0.9) (layer F.SilkS) (width 0.15))
+
+  (pad 9 smd rect (at 16.4 1.6) (size 0.8 1) (layers F.Cu F.Paste F.Mask))
+  (pad 9 smd rect (at 16.4 1.35) (size 1.4 0.5) (layers F.Cu F.Paste F.Mask))
+  (pad 6 smd rect (at 16.4 0.25) (size 1.4 0.5) (layers F.Cu F.Paste F.Mask))
+  (pad 6 smd rect (at 16.4 0.0) (size 0.8 1) (layers F.Cu F.Paste F.Mask))
+	
+
+
+
+  (fp_line (start 20.25 -0.8) (end 20.55 -0.8) (layer F.SilkS) (width 0.15))
+  (fp_line (start 20.25 -0.9) (end 20.55 -0.9) (layer F.SilkS) (width 0.15))
+
+  (pad 9 smd rect (at 20.4 1.6) (size 0.8 1) (layers F.Cu F.Paste F.Mask))
+  (pad 9 smd rect (at 20.4 1.35) (size 1.4 0.5) (layers F.Cu F.Paste F.Mask))
+  (pad 11 smd rect (at 20.4 0.25) (size 1.4 0.5) (layers F.Cu F.Paste F.Mask))
+  (pad 11 smd rect (at 20.4 0.0) (size 0.8 1) (layers F.Cu F.Paste F.Mask))
+	
+
+
+
+  (fp_line (start 24.25 -0.8) (end 24.55 -0.8) (layer F.SilkS) (width 0.15))
+  (fp_line (start 24.25 -0.9) (end 24.55 -0.9) (layer F.SilkS) (width 0.15))
+
+  (pad 9 smd rect (at 24.4 1.6) (size 0.8 1) (layers F.Cu F.Paste F.Mask))
+  (pad 9 smd rect (at 24.4 1.35) (size 1.4 0.5) (layers F.Cu F.Paste F.Mask))
+  (pad 15 smd rect (at 24.4 0.25) (size 1.4 0.5) (layers F.Cu F.Paste F.Mask))
+  (pad 15 smd rect (at 24.4 0.0) (size 0.8 1) (layers F.Cu F.Paste F.Mask))
+	
+
+
+
+  (fp_line (start 28.25 -0.8) (end 28.55 -0.8) (layer F.SilkS) (width 0.15))
+  (fp_line (start 28.25 -0.9) (end 28.55 -0.9) (layer F.SilkS) (width 0.15))
+
+  (pad 9 smd rect (at 28.4 1.6) (size 0.8 1) (layers F.Cu F.Paste F.Mask))
+  (pad 9 smd rect (at 28.4 1.35) (size 1.4 0.5) (layers F.Cu F.Paste F.Mask))
+  (pad 16 smd rect (at 28.4 0.25) (size 1.4 0.5) (layers F.Cu F.Paste F.Mask))
+  (pad 16 smd rect (at 28.4 0.0) (size 0.8 1) (layers F.Cu F.Paste F.Mask))
+	
+
+
+
+  (fp_line (start 0.25 3.2) (end 0.55 3.2) (layer F.SilkS) (width 0.15))
+  (fp_line (start 0.25 3.1) (end 0.55 3.1) (layer F.SilkS) (width 0.15))
+
+  (pad 14 smd rect (at 0.4 5.6) (size 0.8 1) (layers F.Cu F.Paste F.Mask))
+  (pad 14 smd rect (at 0.4 5.35) (size 1.4 0.5) (layers F.Cu F.Paste F.Mask))
+  (pad 13 smd rect (at 0.4 4.25) (size 1.4 0.5) (layers F.Cu F.Paste F.Mask))
+  (pad 13 smd rect (at 0.4 4.0) (size 0.8 1) (layers F.Cu F.Paste F.Mask))
+	
+
+
+
+  (fp_line (start 4.25 3.2) (end 4.55 3.2) (layer F.SilkS) (width 0.15))
+  (fp_line (start 4.25 3.1) (end 4.55 3.1) (layer F.SilkS) (width 0.15))
+
+  (pad 14 smd rect (at 4.4 5.6) (size 0.8 1) (layers F.Cu F.Paste F.Mask))
+  (pad 14 smd rect (at 4.4 5.35) (size 1.4 0.5) (layers F.Cu F.Paste F.Mask))
+  (pad 3 smd rect (at 4.4 4.25) (size 1.4 0.5) (layers F.Cu F.Paste F.Mask))
+  (pad 3 smd rect (at 4.4 4.0) (size 0.8 1) (layers F.Cu F.Paste F.Mask))
+	
+
+
+
+  (fp_line (start 8.25 3.2) (end 8.55 3.2) (layer F.SilkS) (width 0.15))
+  (fp_line (start 8.25 3.1) (end 8.55 3.1) (layer F.SilkS) (width 0.15))
+
+  (pad 14 smd rect (at 8.4 5.6) (size 0.8 1) (layers F.Cu F.Paste F.Mask))
+  (pad 14 smd rect (at 8.4 5.35) (size 1.4 0.5) (layers F.Cu F.Paste F.Mask))
+  (pad 4 smd rect (at 8.4 4.25) (size 1.4 0.5) (layers F.Cu F.Paste F.Mask))
+  (pad 4 smd rect (at 8.4 4.0) (size 0.8 1) (layers F.Cu F.Paste F.Mask))
+	
+
+
+
+  (fp_line (start 12.25 3.2) (end 12.55 3.2) (layer F.SilkS) (width 0.15))
+  (fp_line (start 12.25 3.1) (end 12.55 3.1) (layer F.SilkS) (width 0.15))
+
+  (pad 14 smd rect (at 12.4 5.6) (size 0.8 1) (layers F.Cu F.Paste F.Mask))
+  (pad 14 smd rect (at 12.4 5.35) (size 1.4 0.5) (layers F.Cu F.Paste F.Mask))
+  (pad 10 smd rect (at 12.4 4.25) (size 1.4 0.5) (layers F.Cu F.Paste F.Mask))
+  (pad 10 smd rect (at 12.4 4.0) (size 0.8 1) (layers F.Cu F.Paste F.Mask))
+	
+
+
+
+  (fp_line (start 16.25 3.2) (end 16.55 3.2) (layer F.SilkS) (width 0.15))
+  (fp_line (start 16.25 3.1) (end 16.55 3.1) (layer F.SilkS) (width 0.15))
+
+  (pad 14 smd rect (at 16.4 5.6) (size 0.8 1) (layers F.Cu F.Paste F.Mask))
+  (pad 14 smd rect (at 16.4 5.35) (size 1.4 0.5) (layers F.Cu F.Paste F.Mask))
+  (pad 6 smd rect (at 16.4 4.25) (size 1.4 0.5) (layers F.Cu F.Paste F.Mask))
+  (pad 6 smd rect (at 16.4 4.0) (size 0.8 1) (layers F.Cu F.Paste F.Mask))
+	
+
+
+
+  (fp_line (start 20.25 3.2) (end 20.55 3.2) (layer F.SilkS) (width 0.15))
+  (fp_line (start 20.25 3.1) (end 20.55 3.1) (layer F.SilkS) (width 0.15))
+
+  (pad 14 smd rect (at 20.4 5.6) (size 0.8 1) (layers F.Cu F.Paste F.Mask))
+  (pad 14 smd rect (at 20.4 5.35) (size 1.4 0.5) (layers F.Cu F.Paste F.Mask))
+  (pad 11 smd rect (at 20.4 4.25) (size 1.4 0.5) (layers F.Cu F.Paste F.Mask))
+  (pad 11 smd rect (at 20.4 4.0) (size 0.8 1) (layers F.Cu F.Paste F.Mask))
+	
+
+
+
+  (fp_line (start 24.25 3.2) (end 24.55 3.2) (layer F.SilkS) (width 0.15))
+  (fp_line (start 24.25 3.1) (end 24.55 3.1) (layer F.SilkS) (width 0.15))
+
+  (pad 14 smd rect (at 24.4 5.6) (size 0.8 1) (layers F.Cu F.Paste F.Mask))
+  (pad 14 smd rect (at 24.4 5.35) (size 1.4 0.5) (layers F.Cu F.Paste F.Mask))
+  (pad 15 smd rect (at 24.4 4.25) (size 1.4 0.5) (layers F.Cu F.Paste F.Mask))
+  (pad 15 smd rect (at 24.4 4.0) (size 0.8 1) (layers F.Cu F.Paste F.Mask))
+	
+
+
+
+  (fp_line (start 28.25 3.2) (end 28.55 3.2) (layer F.SilkS) (width 0.15))
+  (fp_line (start 28.25 3.1) (end 28.55 3.1) (layer F.SilkS) (width 0.15))
+
+  (pad 14 smd rect (at 28.4 5.6) (size 0.8 1) (layers F.Cu F.Paste F.Mask))
+  (pad 14 smd rect (at 28.4 5.35) (size 1.4 0.5) (layers F.Cu F.Paste F.Mask))
+  (pad 16 smd rect (at 28.4 4.25) (size 1.4 0.5) (layers F.Cu F.Paste F.Mask))
+  (pad 16 smd rect (at 28.4 4.0) (size 0.8 1) (layers F.Cu F.Paste F.Mask))
+	
+
+
+
+  (fp_line (start 0.25 7.2) (end 0.55 7.2) (layer F.SilkS) (width 0.15))
+  (fp_line (start 0.25 7.1) (end 0.55 7.1) (layer F.SilkS) (width 0.15))
+
+  (pad 8 smd rect (at 0.4 9.6) (size 0.8 1) (layers F.Cu F.Paste F.Mask))
+  (pad 8 smd rect (at 0.4 9.35) (size 1.4 0.5) (layers F.Cu F.Paste F.Mask))
+  (pad 13 smd rect (at 0.4 8.25) (size 1.4 0.5) (layers F.Cu F.Paste F.Mask))
+  (pad 13 smd rect (at 0.4 8.0) (size 0.8 1) (layers F.Cu F.Paste F.Mask))
+	
+
+
+
+  (fp_line (start 4.25 7.2) (end 4.55 7.2) (layer F.SilkS) (width 0.15))
+  (fp_line (start 4.25 7.1) (end 4.55 7.1) (layer F.SilkS) (width 0.15))
+
+  (pad 8 smd rect (at 4.4 9.6) (size 0.8 1) (layers F.Cu F.Paste F.Mask))
+  (pad 8 smd rect (at 4.4 9.35) (size 1.4 0.5) (layers F.Cu F.Paste F.Mask))
+  (pad 3 smd rect (at 4.4 8.25) (size 1.4 0.5) (layers F.Cu F.Paste F.Mask))
+  (pad 3 smd rect (at 4.4 8.0) (size 0.8 1) (layers F.Cu F.Paste F.Mask))
+	
+
+
+
+  (fp_line (start 8.25 7.2) (end 8.55 7.2) (layer F.SilkS) (width 0.15))
+  (fp_line (start 8.25 7.1) (end 8.55 7.1) (layer F.SilkS) (width 0.15))
+
+  (pad 8 smd rect (at 8.4 9.6) (size 0.8 1) (layers F.Cu F.Paste F.Mask))
+  (pad 8 smd rect (at 8.4 9.35) (size 1.4 0.5) (layers F.Cu F.Paste F.Mask))
+  (pad 4 smd rect (at 8.4 8.25) (size 1.4 0.5) (layers F.Cu F.Paste F.Mask))
+  (pad 4 smd rect (at 8.4 8.0) (size 0.8 1) (layers F.Cu F.Paste F.Mask))
+	
+
+
+
+  (fp_line (start 12.25 7.2) (end 12.55 7.2) (layer F.SilkS) (width 0.15))
+  (fp_line (start 12.25 7.1) (end 12.55 7.1) (layer F.SilkS) (width 0.15))
+
+  (pad 8 smd rect (at 12.4 9.6) (size 0.8 1) (layers F.Cu F.Paste F.Mask))
+  (pad 8 smd rect (at 12.4 9.35) (size 1.4 0.5) (layers F.Cu F.Paste F.Mask))
+  (pad 10 smd rect (at 12.4 8.25) (size 1.4 0.5) (layers F.Cu F.Paste F.Mask))
+  (pad 10 smd rect (at 12.4 8.0) (size 0.8 1) (layers F.Cu F.Paste F.Mask))
+	
+
+
+
+  (fp_line (start 16.25 7.2) (end 16.55 7.2) (layer F.SilkS) (width 0.15))
+  (fp_line (start 16.25 7.1) (end 16.55 7.1) (layer F.SilkS) (width 0.15))
+
+  (pad 8 smd rect (at 16.4 9.6) (size 0.8 1) (layers F.Cu F.Paste F.Mask))
+  (pad 8 smd rect (at 16.4 9.35) (size 1.4 0.5) (layers F.Cu F.Paste F.Mask))
+  (pad 6 smd rect (at 16.4 8.25) (size 1.4 0.5) (layers F.Cu F.Paste F.Mask))
+  (pad 6 smd rect (at 16.4 8.0) (size 0.8 1) (layers F.Cu F.Paste F.Mask))
+	
+
+
+
+  (fp_line (start 20.25 7.2) (end 20.55 7.2) (layer F.SilkS) (width 0.15))
+  (fp_line (start 20.25 7.1) (end 20.55 7.1) (layer F.SilkS) (width 0.15))
+
+  (pad 8 smd rect (at 20.4 9.6) (size 0.8 1) (layers F.Cu F.Paste F.Mask))
+  (pad 8 smd rect (at 20.4 9.35) (size 1.4 0.5) (layers F.Cu F.Paste F.Mask))
+  (pad 11 smd rect (at 20.4 8.25) (size 1.4 0.5) (layers F.Cu F.Paste F.Mask))
+  (pad 11 smd rect (at 20.4 8.0) (size 0.8 1) (layers F.Cu F.Paste F.Mask))
+	
+
+
+
+  (fp_line (start 24.25 7.2) (end 24.55 7.2) (layer F.SilkS) (width 0.15))
+  (fp_line (start 24.25 7.1) (end 24.55 7.1) (layer F.SilkS) (width 0.15))
+
+  (pad 8 smd rect (at 24.4 9.6) (size 0.8 1) (layers F.Cu F.Paste F.Mask))
+  (pad 8 smd rect (at 24.4 9.35) (size 1.4 0.5) (layers F.Cu F.Paste F.Mask))
+  (pad 15 smd rect (at 24.4 8.25) (size 1.4 0.5) (layers F.Cu F.Paste F.Mask))
+  (pad 15 smd rect (at 24.4 8.0) (size 0.8 1) (layers F.Cu F.Paste F.Mask))
+	
+
+
+
+  (fp_line (start 28.25 7.2) (end 28.55 7.2) (layer F.SilkS) (width 0.15))
+  (fp_line (start 28.25 7.1) (end 28.55 7.1) (layer F.SilkS) (width 0.15))
+
+  (pad 8 smd rect (at 28.4 9.6) (size 0.8 1) (layers F.Cu F.Paste F.Mask))
+  (pad 8 smd rect (at 28.4 9.35) (size 1.4 0.5) (layers F.Cu F.Paste F.Mask))
+  (pad 16 smd rect (at 28.4 8.25) (size 1.4 0.5) (layers F.Cu F.Paste F.Mask))
+  (pad 16 smd rect (at 28.4 8.0) (size 0.8 1) (layers F.Cu F.Paste F.Mask))
+	
+
+
+
+  (fp_line (start 0.25 11.2) (end 0.55 11.2) (layer F.SilkS) (width 0.15))
+  (fp_line (start 0.25 11.1) (end 0.55 11.1) (layer F.SilkS) (width 0.15))
+
+  (pad 12 smd rect (at 0.4 13.6) (size 0.8 1) (layers F.Cu F.Paste F.Mask))
+  (pad 12 smd rect (at 0.4 13.35) (size 1.4 0.5) (layers F.Cu F.Paste F.Mask))
+  (pad 13 smd rect (at 0.4 12.25) (size 1.4 0.5) (layers F.Cu F.Paste F.Mask))
+  (pad 13 smd rect (at 0.4 12.0) (size 0.8 1) (layers F.Cu F.Paste F.Mask))
+	
+
+
+
+  (fp_line (start 4.25 11.2) (end 4.55 11.2) (layer F.SilkS) (width 0.15))
+  (fp_line (start 4.25 11.1) (end 4.55 11.1) (layer F.SilkS) (width 0.15))
+
+  (pad 12 smd rect (at 4.4 13.6) (size 0.8 1) (layers F.Cu F.Paste F.Mask))
+  (pad 12 smd rect (at 4.4 13.35) (size 1.4 0.5) (layers F.Cu F.Paste F.Mask))
+  (pad 3 smd rect (at 4.4 12.25) (size 1.4 0.5) (layers F.Cu F.Paste F.Mask))
+  (pad 3 smd rect (at 4.4 12.0) (size 0.8 1) (layers F.Cu F.Paste F.Mask))
+	
+
+
+
+  (fp_line (start 8.25 11.2) (end 8.55 11.2) (layer F.SilkS) (width 0.15))
+  (fp_line (start 8.25 11.1) (end 8.55 11.1) (layer F.SilkS) (width 0.15))
+
+  (pad 12 smd rect (at 8.4 13.6) (size 0.8 1) (layers F.Cu F.Paste F.Mask))
+  (pad 12 smd rect (at 8.4 13.35) (size 1.4 0.5) (layers F.Cu F.Paste F.Mask))
+  (pad 4 smd rect (at 8.4 12.25) (size 1.4 0.5) (layers F.Cu F.Paste F.Mask))
+  (pad 4 smd rect (at 8.4 12.0) (size 0.8 1) (layers F.Cu F.Paste F.Mask))
+	
+
+
+
+  (fp_line (start 12.25 11.2) (end 12.55 11.2) (layer F.SilkS) (width 0.15))
+  (fp_line (start 12.25 11.1) (end 12.55 11.1) (layer F.SilkS) (width 0.15))
+
+  (pad 12 smd rect (at 12.4 13.6) (size 0.8 1) (layers F.Cu F.Paste F.Mask))
+  (pad 12 smd rect (at 12.4 13.35) (size 1.4 0.5) (layers F.Cu F.Paste F.Mask))
+  (pad 10 smd rect (at 12.4 12.25) (size 1.4 0.5) (layers F.Cu F.Paste F.Mask))
+  (pad 10 smd rect (at 12.4 12.0) (size 0.8 1) (layers F.Cu F.Paste F.Mask))
+	
+
+
+
+  (fp_line (start 16.25 11.2) (end 16.55 11.2) (layer F.SilkS) (width 0.15))
+  (fp_line (start 16.25 11.1) (end 16.55 11.1) (layer F.SilkS) (width 0.15))
+
+  (pad 12 smd rect (at 16.4 13.6) (size 0.8 1) (layers F.Cu F.Paste F.Mask))
+  (pad 12 smd rect (at 16.4 13.35) (size 1.4 0.5) (layers F.Cu F.Paste F.Mask))
+  (pad 6 smd rect (at 16.4 12.25) (size 1.4 0.5) (layers F.Cu F.Paste F.Mask))
+  (pad 6 smd rect (at 16.4 12.0) (size 0.8 1) (layers F.Cu F.Paste F.Mask))
+	
+
+
+
+  (fp_line (start 20.25 11.2) (end 20.55 11.2) (layer F.SilkS) (width 0.15))
+  (fp_line (start 20.25 11.1) (end 20.55 11.1) (layer F.SilkS) (width 0.15))
+
+  (pad 12 smd rect (at 20.4 13.6) (size 0.8 1) (layers F.Cu F.Paste F.Mask))
+  (pad 12 smd rect (at 20.4 13.35) (size 1.4 0.5) (layers F.Cu F.Paste F.Mask))
+  (pad 11 smd rect (at 20.4 12.25) (size 1.4 0.5) (layers F.Cu F.Paste F.Mask))
+  (pad 11 smd rect (at 20.4 12.0) (size 0.8 1) (layers F.Cu F.Paste F.Mask))
+	
+
+
+
+  (fp_line (start 24.25 11.2) (end 24.55 11.2) (layer F.SilkS) (width 0.15))
+  (fp_line (start 24.25 11.1) (end 24.55 11.1) (layer F.SilkS) (width 0.15))
+
+  (pad 12 smd rect (at 24.4 13.6) (size 0.8 1) (layers F.Cu F.Paste F.Mask))
+  (pad 12 smd rect (at 24.4 13.35) (size 1.4 0.5) (layers F.Cu F.Paste F.Mask))
+  (pad 15 smd rect (at 24.4 12.25) (size 1.4 0.5) (layers F.Cu F.Paste F.Mask))
+  (pad 15 smd rect (at 24.4 12.0) (size 0.8 1) (layers F.Cu F.Paste F.Mask))
+	
+
+
+
+  (fp_line (start 28.25 11.2) (end 28.55 11.2) (layer F.SilkS) (width 0.15))
+  (fp_line (start 28.25 11.1) (end 28.55 11.1) (layer F.SilkS) (width 0.15))
+
+  (pad 12 smd rect (at 28.4 13.6) (size 0.8 1) (layers F.Cu F.Paste F.Mask))
+  (pad 12 smd rect (at 28.4 13.35) (size 1.4 0.5) (layers F.Cu F.Paste F.Mask))
+  (pad 16 smd rect (at 28.4 12.25) (size 1.4 0.5) (layers F.Cu F.Paste F.Mask))
+  (pad 16 smd rect (at 28.4 12.0) (size 0.8 1) (layers F.Cu F.Paste F.Mask))
+	
+
+
+
+  (fp_line (start 0.25 15.2) (end 0.55 15.2) (layer F.SilkS) (width 0.15))
+  (fp_line (start 0.25 15.1) (end 0.55 15.1) (layer F.SilkS) (width 0.15))
+
+  (pad 1 smd rect (at 0.4 17.6) (size 0.8 1) (layers F.Cu F.Paste F.Mask))
+  (pad 1 smd rect (at 0.4 17.35) (size 1.4 0.5) (layers F.Cu F.Paste F.Mask))
+  (pad 13 smd rect (at 0.4 16.25) (size 1.4 0.5) (layers F.Cu F.Paste F.Mask))
+  (pad 13 smd rect (at 0.4 16.0) (size 0.8 1) (layers F.Cu F.Paste F.Mask))
+	
+
+
+
+  (fp_line (start 4.25 15.2) (end 4.55 15.2) (layer F.SilkS) (width 0.15))
+  (fp_line (start 4.25 15.1) (end 4.55 15.1) (layer F.SilkS) (width 0.15))
+
+  (pad 1 smd rect (at 4.4 17.6) (size 0.8 1) (layers F.Cu F.Paste F.Mask))
+  (pad 1 smd rect (at 4.4 17.35) (size 1.4 0.5) (layers F.Cu F.Paste F.Mask))
+  (pad 3 smd rect (at 4.4 16.25) (size 1.4 0.5) (layers F.Cu F.Paste F.Mask))
+  (pad 3 smd rect (at 4.4 16.0) (size 0.8 1) (layers F.Cu F.Paste F.Mask))
+	
+
+
+
+  (fp_line (start 8.25 15.2) (end 8.55 15.2) (layer F.SilkS) (width 0.15))
+  (fp_line (start 8.25 15.1) (end 8.55 15.1) (layer F.SilkS) (width 0.15))
+
+  (pad 1 smd rect (at 8.4 17.6) (size 0.8 1) (layers F.Cu F.Paste F.Mask))
+  (pad 1 smd rect (at 8.4 17.35) (size 1.4 0.5) (layers F.Cu F.Paste F.Mask))
+  (pad 4 smd rect (at 8.4 16.25) (size 1.4 0.5) (layers F.Cu F.Paste F.Mask))
+  (pad 4 smd rect (at 8.4 16.0) (size 0.8 1) (layers F.Cu F.Paste F.Mask))
+	
+
+
+
+  (fp_line (start 12.25 15.2) (end 12.55 15.2) (layer F.SilkS) (width 0.15))
+  (fp_line (start 12.25 15.1) (end 12.55 15.1) (layer F.SilkS) (width 0.15))
+
+  (pad 1 smd rect (at 12.4 17.6) (size 0.8 1) (layers F.Cu F.Paste F.Mask))
+  (pad 1 smd rect (at 12.4 17.35) (size 1.4 0.5) (layers F.Cu F.Paste F.Mask))
+  (pad 10 smd rect (at 12.4 16.25) (size 1.4 0.5) (layers F.Cu F.Paste F.Mask))
+  (pad 10 smd rect (at 12.4 16.0) (size 0.8 1) (layers F.Cu F.Paste F.Mask))
+	
+
+
+
+  (fp_line (start 16.25 15.2) (end 16.55 15.2) (layer F.SilkS) (width 0.15))
+  (fp_line (start 16.25 15.1) (end 16.55 15.1) (layer F.SilkS) (width 0.15))
+
+  (pad 1 smd rect (at 16.4 17.6) (size 0.8 1) (layers F.Cu F.Paste F.Mask))
+  (pad 1 smd rect (at 16.4 17.35) (size 1.4 0.5) (layers F.Cu F.Paste F.Mask))
+  (pad 6 smd rect (at 16.4 16.25) (size 1.4 0.5) (layers F.Cu F.Paste F.Mask))
+  (pad 6 smd rect (at 16.4 16.0) (size 0.8 1) (layers F.Cu F.Paste F.Mask))
+	
+
+
+
+  (fp_line (start 20.25 15.2) (end 20.55 15.2) (layer F.SilkS) (width 0.15))
+  (fp_line (start 20.25 15.1) (end 20.55 15.1) (layer F.SilkS) (width 0.15))
+
+  (pad 1 smd rect (at 20.4 17.6) (size 0.8 1) (layers F.Cu F.Paste F.Mask))
+  (pad 1 smd rect (at 20.4 17.35) (size 1.4 0.5) (layers F.Cu F.Paste F.Mask))
+  (pad 11 smd rect (at 20.4 16.25) (size 1.4 0.5) (layers F.Cu F.Paste F.Mask))
+  (pad 11 smd rect (at 20.4 16.0) (size 0.8 1) (layers F.Cu F.Paste F.Mask))
+	
+
+
+
+  (fp_line (start 24.25 15.2) (end 24.55 15.2) (layer F.SilkS) (width 0.15))
+  (fp_line (start 24.25 15.1) (end 24.55 15.1) (layer F.SilkS) (width 0.15))
+
+  (pad 1 smd rect (at 24.4 17.6) (size 0.8 1) (layers F.Cu F.Paste F.Mask))
+  (pad 1 smd rect (at 24.4 17.35) (size 1.4 0.5) (layers F.Cu F.Paste F.Mask))
+  (pad 15 smd rect (at 24.4 16.25) (size 1.4 0.5) (layers F.Cu F.Paste F.Mask))
+  (pad 15 smd rect (at 24.4 16.0) (size 0.8 1) (layers F.Cu F.Paste F.Mask))
+	
+
+
+
+  (fp_line (start 28.25 15.2) (end 28.55 15.2) (layer F.SilkS) (width 0.15))
+  (fp_line (start 28.25 15.1) (end 28.55 15.1) (layer F.SilkS) (width 0.15))
+
+  (pad 1 smd rect (at 28.4 17.6) (size 0.8 1) (layers F.Cu F.Paste F.Mask))
+  (pad 1 smd rect (at 28.4 17.35) (size 1.4 0.5) (layers F.Cu F.Paste F.Mask))
+  (pad 16 smd rect (at 28.4 16.25) (size 1.4 0.5) (layers F.Cu F.Paste F.Mask))
+  (pad 16 smd rect (at 28.4 16.0) (size 0.8 1) (layers F.Cu F.Paste F.Mask))
+	
+
+
+
+  (fp_line (start 0.25 19.2) (end 0.55 19.2) (layer F.SilkS) (width 0.15))
+  (fp_line (start 0.25 19.1) (end 0.55 19.1) (layer F.SilkS) (width 0.15))
+
+  (pad 7 smd rect (at 0.4 21.6) (size 0.8 1) (layers F.Cu F.Paste F.Mask))
+  (pad 7 smd rect (at 0.4 21.35) (size 1.4 0.5) (layers F.Cu F.Paste F.Mask))
+  (pad 13 smd rect (at 0.4 20.25) (size 1.4 0.5) (layers F.Cu F.Paste F.Mask))
+  (pad 13 smd rect (at 0.4 20.0) (size 0.8 1) (layers F.Cu F.Paste F.Mask))
+	
+
+
+
+  (fp_line (start 4.25 19.2) (end 4.55 19.2) (layer F.SilkS) (width 0.15))
+  (fp_line (start 4.25 19.1) (end 4.55 19.1) (layer F.SilkS) (width 0.15))
+
+  (pad 7 smd rect (at 4.4 21.6) (size 0.8 1) (layers F.Cu F.Paste F.Mask))
+  (pad 7 smd rect (at 4.4 21.35) (size 1.4 0.5) (layers F.Cu F.Paste F.Mask))
+  (pad 3 smd rect (at 4.4 20.25) (size 1.4 0.5) (layers F.Cu F.Paste F.Mask))
+  (pad 3 smd rect (at 4.4 20.0) (size 0.8 1) (layers F.Cu F.Paste F.Mask))
+	
+
+
+
+  (fp_line (start 8.25 19.2) (end 8.55 19.2) (layer F.SilkS) (width 0.15))
+  (fp_line (start 8.25 19.1) (end 8.55 19.1) (layer F.SilkS) (width 0.15))
+
+  (pad 7 smd rect (at 8.4 21.6) (size 0.8 1) (layers F.Cu F.Paste F.Mask))
+  (pad 7 smd rect (at 8.4 21.35) (size 1.4 0.5) (layers F.Cu F.Paste F.Mask))
+  (pad 4 smd rect (at 8.4 20.25) (size 1.4 0.5) (layers F.Cu F.Paste F.Mask))
+  (pad 4 smd rect (at 8.4 20.0) (size 0.8 1) (layers F.Cu F.Paste F.Mask))
+	
+
+
+
+  (fp_line (start 12.25 19.2) (end 12.55 19.2) (layer F.SilkS) (width 0.15))
+  (fp_line (start 12.25 19.1) (end 12.55 19.1) (layer F.SilkS) (width 0.15))
+
+  (pad 7 smd rect (at 12.4 21.6) (size 0.8 1) (layers F.Cu F.Paste F.Mask))
+  (pad 7 smd rect (at 12.4 21.35) (size 1.4 0.5) (layers F.Cu F.Paste F.Mask))
+  (pad 10 smd rect (at 12.4 20.25) (size 1.4 0.5) (layers F.Cu F.Paste F.Mask))
+  (pad 10 smd rect (at 12.4 20.0) (size 0.8 1) (layers F.Cu F.Paste F.Mask))
+	
+
+
+
+  (fp_line (start 16.25 19.2) (end 16.55 19.2) (layer F.SilkS) (width 0.15))
+  (fp_line (start 16.25 19.1) (end 16.55 19.1) (layer F.SilkS) (width 0.15))
+
+  (pad 7 smd rect (at 16.4 21.6) (size 0.8 1) (layers F.Cu F.Paste F.Mask))
+  (pad 7 smd rect (at 16.4 21.35) (size 1.4 0.5) (layers F.Cu F.Paste F.Mask))
+  (pad 6 smd rect (at 16.4 20.25) (size 1.4 0.5) (layers F.Cu F.Paste F.Mask))
+  (pad 6 smd rect (at 16.4 20.0) (size 0.8 1) (layers F.Cu F.Paste F.Mask))
+	
+
+
+
+  (fp_line (start 20.25 19.2) (end 20.55 19.2) (layer F.SilkS) (width 0.15))
+  (fp_line (start 20.25 19.1) (end 20.55 19.1) (layer F.SilkS) (width 0.15))
+
+  (pad 7 smd rect (at 20.4 21.6) (size 0.8 1) (layers F.Cu F.Paste F.Mask))
+  (pad 7 smd rect (at 20.4 21.35) (size 1.4 0.5) (layers F.Cu F.Paste F.Mask))
+  (pad 11 smd rect (at 20.4 20.25) (size 1.4 0.5) (layers F.Cu F.Paste F.Mask))
+  (pad 11 smd rect (at 20.4 20.0) (size 0.8 1) (layers F.Cu F.Paste F.Mask))
+	
+
+
+
+  (fp_line (start 24.25 19.2) (end 24.55 19.2) (layer F.SilkS) (width 0.15))
+  (fp_line (start 24.25 19.1) (end 24.55 19.1) (layer F.SilkS) (width 0.15))
+
+  (pad 7 smd rect (at 24.4 21.6) (size 0.8 1) (layers F.Cu F.Paste F.Mask))
+  (pad 7 smd rect (at 24.4 21.35) (size 1.4 0.5) (layers F.Cu F.Paste F.Mask))
+  (pad 15 smd rect (at 24.4 20.25) (size 1.4 0.5) (layers F.Cu F.Paste F.Mask))
+  (pad 15 smd rect (at 24.4 20.0) (size 0.8 1) (layers F.Cu F.Paste F.Mask))
+	
+
+
+
+  (fp_line (start 28.25 19.2) (end 28.55 19.2) (layer F.SilkS) (width 0.15))
+  (fp_line (start 28.25 19.1) (end 28.55 19.1) (layer F.SilkS) (width 0.15))
+
+  (pad 7 smd rect (at 28.4 21.6) (size 0.8 1) (layers F.Cu F.Paste F.Mask))
+  (pad 7 smd rect (at 28.4 21.35) (size 1.4 0.5) (layers F.Cu F.Paste F.Mask))
+  (pad 16 smd rect (at 28.4 20.25) (size 1.4 0.5) (layers F.Cu F.Paste F.Mask))
+  (pad 16 smd rect (at 28.4 20.0) (size 0.8 1) (layers F.Cu F.Paste F.Mask))
+	
+
+
+
+  (fp_line (start 0.25 23.2) (end 0.55 23.2) (layer F.SilkS) (width 0.15))
+  (fp_line (start 0.25 23.1) (end 0.55 23.1) (layer F.SilkS) (width 0.15))
+
+  (pad 2 smd rect (at 0.4 25.6) (size 0.8 1) (layers F.Cu F.Paste F.Mask))
+  (pad 2 smd rect (at 0.4 25.35) (size 1.4 0.5) (layers F.Cu F.Paste F.Mask))
+  (pad 13 smd rect (at 0.4 24.25) (size 1.4 0.5) (layers F.Cu F.Paste F.Mask))
+  (pad 13 smd rect (at 0.4 24.0) (size 0.8 1) (layers F.Cu F.Paste F.Mask))
+	
+
+
+
+  (fp_line (start 4.25 23.2) (end 4.55 23.2) (layer F.SilkS) (width 0.15))
+  (fp_line (start 4.25 23.1) (end 4.55 23.1) (layer F.SilkS) (width 0.15))
+
+  (pad 2 smd rect (at 4.4 25.6) (size 0.8 1) (layers F.Cu F.Paste F.Mask))
+  (pad 2 smd rect (at 4.4 25.35) (size 1.4 0.5) (layers F.Cu F.Paste F.Mask))
+  (pad 3 smd rect (at 4.4 24.25) (size 1.4 0.5) (layers F.Cu F.Paste F.Mask))
+  (pad 3 smd rect (at 4.4 24.0) (size 0.8 1) (layers F.Cu F.Paste F.Mask))
+	
+
+
+
+  (fp_line (start 8.25 23.2) (end 8.55 23.2) (layer F.SilkS) (width 0.15))
+  (fp_line (start 8.25 23.1) (end 8.55 23.1) (layer F.SilkS) (width 0.15))
+
+  (pad 2 smd rect (at 8.4 25.6) (size 0.8 1) (layers F.Cu F.Paste F.Mask))
+  (pad 2 smd rect (at 8.4 25.35) (size 1.4 0.5) (layers F.Cu F.Paste F.Mask))
+  (pad 4 smd rect (at 8.4 24.25) (size 1.4 0.5) (layers F.Cu F.Paste F.Mask))
+  (pad 4 smd rect (at 8.4 24.0) (size 0.8 1) (layers F.Cu F.Paste F.Mask))
+	
+
+
+
+  (fp_line (start 12.25 23.2) (end 12.55 23.2) (layer F.SilkS) (width 0.15))
+  (fp_line (start 12.25 23.1) (end 12.55 23.1) (layer F.SilkS) (width 0.15))
+
+  (pad 2 smd rect (at 12.4 25.6) (size 0.8 1) (layers F.Cu F.Paste F.Mask))
+  (pad 2 smd rect (at 12.4 25.35) (size 1.4 0.5) (layers F.Cu F.Paste F.Mask))
+  (pad 10 smd rect (at 12.4 24.25) (size 1.4 0.5) (layers F.Cu F.Paste F.Mask))
+  (pad 10 smd rect (at 12.4 24.0) (size 0.8 1) (layers F.Cu F.Paste F.Mask))
+	
+
+
+
+  (fp_line (start 16.25 23.2) (end 16.55 23.2) (layer F.SilkS) (width 0.15))
+  (fp_line (start 16.25 23.1) (end 16.55 23.1) (layer F.SilkS) (width 0.15))
+
+  (pad 2 smd rect (at 16.4 25.6) (size 0.8 1) (layers F.Cu F.Paste F.Mask))
+  (pad 2 smd rect (at 16.4 25.35) (size 1.4 0.5) (layers F.Cu F.Paste F.Mask))
+  (pad 6 smd rect (at 16.4 24.25) (size 1.4 0.5) (layers F.Cu F.Paste F.Mask))
+  (pad 6 smd rect (at 16.4 24.0) (size 0.8 1) (layers F.Cu F.Paste F.Mask))
+	
+
+
+
+  (fp_line (start 20.25 23.2) (end 20.55 23.2) (layer F.SilkS) (width 0.15))
+  (fp_line (start 20.25 23.1) (end 20.55 23.1) (layer F.SilkS) (width 0.15))
+
+  (pad 2 smd rect (at 20.4 25.6) (size 0.8 1) (layers F.Cu F.Paste F.Mask))
+  (pad 2 smd rect (at 20.4 25.35) (size 1.4 0.5) (layers F.Cu F.Paste F.Mask))
+  (pad 11 smd rect (at 20.4 24.25) (size 1.4 0.5) (layers F.Cu F.Paste F.Mask))
+  (pad 11 smd rect (at 20.4 24.0) (size 0.8 1) (layers F.Cu F.Paste F.Mask))
+	
+
+
+
+  (fp_line (start 24.25 23.2) (end 24.55 23.2) (layer F.SilkS) (width 0.15))
+  (fp_line (start 24.25 23.1) (end 24.55 23.1) (layer F.SilkS) (width 0.15))
+
+  (pad 2 smd rect (at 24.4 25.6) (size 0.8 1) (layers F.Cu F.Paste F.Mask))
+  (pad 2 smd rect (at 24.4 25.35) (size 1.4 0.5) (layers F.Cu F.Paste F.Mask))
+  (pad 15 smd rect (at 24.4 24.25) (size 1.4 0.5) (layers F.Cu F.Paste F.Mask))
+  (pad 15 smd rect (at 24.4 24.0) (size 0.8 1) (layers F.Cu F.Paste F.Mask))
+	
+
+
+
+  (fp_line (start 28.25 23.2) (end 28.55 23.2) (layer F.SilkS) (width 0.15))
+  (fp_line (start 28.25 23.1) (end 28.55 23.1) (layer F.SilkS) (width 0.15))
+
+  (pad 2 smd rect (at 28.4 25.6) (size 0.8 1) (layers F.Cu F.Paste F.Mask))
+  (pad 2 smd rect (at 28.4 25.35) (size 1.4 0.5) (layers F.Cu F.Paste F.Mask))
+  (pad 16 smd rect (at 28.4 24.25) (size 1.4 0.5) (layers F.Cu F.Paste F.Mask))
+  (pad 16 smd rect (at 28.4 24.0) (size 0.8 1) (layers F.Cu F.Paste F.Mask))
+	
+
+
+
+  (fp_line (start 0.25 27.2) (end 0.55 27.2) (layer F.SilkS) (width 0.15))
+  (fp_line (start 0.25 27.1) (end 0.55 27.1) (layer F.SilkS) (width 0.15))
+
+  (pad 5 smd rect (at 0.4 29.6) (size 0.8 1) (layers F.Cu F.Paste F.Mask))
+  (pad 5 smd rect (at 0.4 29.35) (size 1.4 0.5) (layers F.Cu F.Paste F.Mask))
+  (pad 13 smd rect (at 0.4 28.25) (size 1.4 0.5) (layers F.Cu F.Paste F.Mask))
+  (pad 13 smd rect (at 0.4 28.0) (size 0.8 1) (layers F.Cu F.Paste F.Mask))
+	
+
+
+
+  (fp_line (start 4.25 27.2) (end 4.55 27.2) (layer F.SilkS) (width 0.15))
+  (fp_line (start 4.25 27.1) (end 4.55 27.1) (layer F.SilkS) (width 0.15))
+
+  (pad 5 smd rect (at 4.4 29.6) (size 0.8 1) (layers F.Cu F.Paste F.Mask))
+  (pad 5 smd rect (at 4.4 29.35) (size 1.4 0.5) (layers F.Cu F.Paste F.Mask))
+  (pad 3 smd rect (at 4.4 28.25) (size 1.4 0.5) (layers F.Cu F.Paste F.Mask))
+  (pad 3 smd rect (at 4.4 28.0) (size 0.8 1) (layers F.Cu F.Paste F.Mask))
+	
+
+
+
+  (fp_line (start 8.25 27.2) (end 8.55 27.2) (layer F.SilkS) (width 0.15))
+  (fp_line (start 8.25 27.1) (end 8.55 27.1) (layer F.SilkS) (width 0.15))
+
+  (pad 5 smd rect (at 8.4 29.6) (size 0.8 1) (layers F.Cu F.Paste F.Mask))
+  (pad 5 smd rect (at 8.4 29.35) (size 1.4 0.5) (layers F.Cu F.Paste F.Mask))
+  (pad 4 smd rect (at 8.4 28.25) (size 1.4 0.5) (layers F.Cu F.Paste F.Mask))
+  (pad 4 smd rect (at 8.4 28.0) (size 0.8 1) (layers F.Cu F.Paste F.Mask))
+	
+
+
+
+  (fp_line (start 12.25 27.2) (end 12.55 27.2) (layer F.SilkS) (width 0.15))
+  (fp_line (start 12.25 27.1) (end 12.55 27.1) (layer F.SilkS) (width 0.15))
+
+  (pad 5 smd rect (at 12.4 29.6) (size 0.8 1) (layers F.Cu F.Paste F.Mask))
+  (pad 5 smd rect (at 12.4 29.35) (size 1.4 0.5) (layers F.Cu F.Paste F.Mask))
+  (pad 10 smd rect (at 12.4 28.25) (size 1.4 0.5) (layers F.Cu F.Paste F.Mask))
+  (pad 10 smd rect (at 12.4 28.0) (size 0.8 1) (layers F.Cu F.Paste F.Mask))
+	
+
+
+
+  (fp_line (start 16.25 27.2) (end 16.55 27.2) (layer F.SilkS) (width 0.15))
+  (fp_line (start 16.25 27.1) (end 16.55 27.1) (layer F.SilkS) (width 0.15))
+
+  (pad 5 smd rect (at 16.4 29.6) (size 0.8 1) (layers F.Cu F.Paste F.Mask))
+  (pad 5 smd rect (at 16.4 29.35) (size 1.4 0.5) (layers F.Cu F.Paste F.Mask))
+  (pad 6 smd rect (at 16.4 28.25) (size 1.4 0.5) (layers F.Cu F.Paste F.Mask))
+  (pad 6 smd rect (at 16.4 28.0) (size 0.8 1) (layers F.Cu F.Paste F.Mask))
+	
+
+
+
+  (fp_line (start 20.25 27.2) (end 20.55 27.2) (layer F.SilkS) (width 0.15))
+  (fp_line (start 20.25 27.1) (end 20.55 27.1) (layer F.SilkS) (width 0.15))
+
+  (pad 5 smd rect (at 20.4 29.6) (size 0.8 1) (layers F.Cu F.Paste F.Mask))
+  (pad 5 smd rect (at 20.4 29.35) (size 1.4 0.5) (layers F.Cu F.Paste F.Mask))
+  (pad 11 smd rect (at 20.4 28.25) (size 1.4 0.5) (layers F.Cu F.Paste F.Mask))
+  (pad 11 smd rect (at 20.4 28.0) (size 0.8 1) (layers F.Cu F.Paste F.Mask))
+	
+
+
+
+  (fp_line (start 24.25 27.2) (end 24.55 27.2) (layer F.SilkS) (width 0.15))
+  (fp_line (start 24.25 27.1) (end 24.55 27.1) (layer F.SilkS) (width 0.15))
+
+  (pad 5 smd rect (at 24.4 29.6) (size 0.8 1) (layers F.Cu F.Paste F.Mask))
+  (pad 5 smd rect (at 24.4 29.35) (size 1.4 0.5) (layers F.Cu F.Paste F.Mask))
+  (pad 15 smd rect (at 24.4 28.25) (size 1.4 0.5) (layers F.Cu F.Paste F.Mask))
+  (pad 15 smd rect (at 24.4 28.0) (size 0.8 1) (layers F.Cu F.Paste F.Mask))
+	
+
+
+
+  (fp_line (start 28.25 27.2) (end 28.55 27.2) (layer F.SilkS) (width 0.15))
+  (fp_line (start 28.25 27.1) (end 28.55 27.1) (layer F.SilkS) (width 0.15))
+
+  (pad 5 smd rect (at 28.4 29.6) (size 0.8 1) (layers F.Cu F.Paste F.Mask))
+  (pad 5 smd rect (at 28.4 29.35) (size 1.4 0.5) (layers F.Cu F.Paste F.Mask))
+  (pad 16 smd rect (at 28.4 28.25) (size 1.4 0.5) (layers F.Cu F.Paste F.Mask))
+  (pad 16 smd rect (at 28.4 28.0) (size 0.8 1) (layers F.Cu F.Paste F.Mask))
+	
+)
