@@ -22,6 +22,11 @@ D 8 bits serial in // out Shift Register Open Collect.
 K HCMOS SR OpenCol
 $ENDCMP
 #
+$CMP COMMON_MODE_CHOKE
+D Transformer, single primary, single secondary
+K transformer coil magnet
+$ENDCMP
+#
 $CMP LED8x8
 D Generic 8x8 LED matrix
 K LED,Matrix
