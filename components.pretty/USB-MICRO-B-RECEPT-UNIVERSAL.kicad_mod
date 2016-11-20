@@ -1,4 +1,4 @@
-(module USB-MICRO-B-RECEPT-UNIVERSAL (layer F.Cu) (tedit 58305988)
+(module USB-MICRO-B-RECEPT-UNIVERSAL (layer F.Cu) (tedit 58319CBA)
   (descr ZX62R-B-5P)
   (tags "ZX62R-B-5P USB micro B")
   (fp_text reference CONN*** (at 10.9 -4.55) (layer F.SilkS) hide
@@ -30,5 +30,5 @@
   (pad 6 thru_hole rect (at 3.6 0) (size 3.2 2) (drill oval 3 1.2) (layers *.Cu *.Mask))
   (pad 6 thru_hole rect (at -3.6 0) (size 3.2 2) (drill oval 3 1.2) (layers *.Cu *.Mask))
   (pad 6 thru_hole rect (at 3.6 -2.3) (size 3.2 2) (drill oval 3 1.2) (layers *.Cu *.Mask))
-  (pad 6 thru_hole rect (at 0 0) (size 3.2 2) (drill oval 3 1.2) (layers *.Cu *.Mask))
+  (pad 6 thru_hole rect (at 0 0) (size 3.2 2) (drill 1.2) (layers *.Cu *.Mask))
 )
