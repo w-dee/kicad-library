@@ -16,8 +16,8 @@ for y in (0..47) do
 		pk = x + ((y&1)!=0? 64:0) + 1 
 		pa = (y >> 1) + 200 + 1
 		n = "
-  (fp_line (start -1.493898 0.129696) (end -1.493898 -0.170304) (layer F.SilkS) (width 0.15))
-  (fp_line (start -1.593898 0.129696) (end -1.593898 -0.170304) (layer F.SilkS) (width 0.15))
+  (fp_line (start 1.606102 0.129696) (end 1.606102 -0.170304) (layer F.SilkS) (width 0.15))
+  (fp_line (start 1.506102 0.129696) (end 1.506102 -0.170304) (layer F.SilkS) (width 0.15))
   (fp_text user #{x},#{y} (at -0.3 -1.3) (layer F.SilkS)
     (effects (font (size 0.6 0.6) (thickness 0.15)))
   )
