@@ -1,46 +1,69 @@
 EESchema-DOCLIB  Version 2.0
 #
-$CMP 74HC595
-D 8 bits serial in // out Shift Register 3 State Out
-K HCMOS SR 3State
-F 74xx/74HC595.pdf
+$CMP 6digit_7segment_led_for_clock_3662B
+D Generic 7 segment display, common cathode
+K LED
 $ENDCMP
 #
-$CMP 74HC595-alt-vdd
-D 8 bits serial in // out Shift Register 3 State Out
-K HCMOS SR 3State
-F 74xx/74HC595.pdf
+$CMP AOD403
+D -23A Id, -100V Vds, HEXFET P-Channel MOSFET, TO-220
+K HEXFET P-Channel MOSFET
+F http://www.irf.com/product-info/datasheets/data/irf9540n.pdf
 $ENDCMP
 #
-$CMP 74LS595
-D 8 bits serial in // out Shift Register 3 State Out
-K TTL SR 3State
+$CMP CP2102N-A01-GQFN28
+D USB to UART master bridge
+K USB UART bridge
+F http://www.silabs.com/support%20documents/technicaldocs/cp2102n-datasheet.pdf
 $ENDCMP
 #
-$CMP 74LS596
-D 8 bits serial in // out Shift Register Open Collect.
-K HCMOS SR OpenCol
+$CMP IRF4905
+D 2A, 40V Synchronous  Step-Down Converter
+K Step-Down Voltage Regulator 40V 2A
+F http://www.ti.com/lit/ds/symlink/lm2672.pdf
 $ENDCMP
 #
-$CMP COMMON_MODE_CHOKE
-D Transformer, single primary, single secondary
-K transformer coil magnet
+$CMP LT6105
+D 36V Low Cost, High Side Current Sense, MS8
+K current sense
 $ENDCMP
 #
-$CMP LED8x8
-D Generic 8x8 LED matrix
-K LED,Matrix
+$CMP NCP1529
+D 1.7MHz, 1A, High Efficiency, Low Ripple, Adjustable Output Voltage Step-down Converter
+K Voltage regulator switching buck fixed output analog
+F http://www.onsemi.jp/PowerSolutions/document/NCP1529-D.PDF
 $ENDCMP
 #
-$CMP NJU7223
-D Linear Regulator +3.3V
-K POWER REGUL
+$CMP NJW4132
+D Boost converter
+F http://ww1.microchip.com/downloads/en/DeviceDoc/20002200D.pdf
 $ENDCMP
 #
-$CMP TPIC6C595
-D 8 bits serial in // out Shift Register 3 State Out
-K HCMOS SR 3State
-F 74xx/74HC595.pdf
+$CMP P82B715
+D I2C Bus Buffer, DIP8/SO8/TSSOP8
+K I2C Bus Buffer
+$ENDCMP
+#
+$CMP SW_SPDT_WITH_SHIELD
+D Switch, single pole double throw with shild
+K switch single-pole double-throw spdt ON-ON
+$ENDCMP
+#
+$CMP TPS54202
+D TPS54202 4.5-V to 28-V Input, 2-A Output,EMI Friendly Synchronous Step Down Converter
+K buck step-down voltage-regulator
+F http://www.ti.com/lit/ds/symlink/tps54202.pdf
+$ENDCMP
+#
+$CMP TPS54428DDA
+D 4.5-V to 18-V Input, 4-A Synchronous Step-Down Converter With Eco-Mode
+K Switching Regulator Controller
+F http://cds.linear.com/docs/en/datasheet/1624f.pdf
+$ENDCMP
+#
+$CMP USB_Ax2
+D USB Type A connector x2
+K connector USB
 $ENDCMP
 #
 #End Doc Library

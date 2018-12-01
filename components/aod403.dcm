@@ -1,0 +1,15 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP AOD403
+D -23A Id, -100V Vds, HEXFET P-Channel MOSFET, TO-220
+K HEXFET P-Channel MOSFET
+F http://www.irf.com/product-info/datasheets/data/irf9540n.pdf
+$ENDCMP
+#
+$CMP IRF4905
+D -70A Id, -30V Vds, Single P-Channel Power MOSFET, TO-252
+K Single P-Channel HEXFET Power MOSFET
+F http://www.aosmd.com/pdfs/datasheet/AOI403.pdf
+$ENDCMP
+#
+#End Doc Library
